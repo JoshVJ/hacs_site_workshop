@@ -4,8 +4,8 @@ import "./index.css";
 
 const PORTFOLIO_DATA = {
   name: "Joshua Vento-Jones",
-  title: "Professional Chud Maxxer",
-  tagline: "I think, therefore I",
+  title: "CS @ UT '29, SMART Scholar",
+  tagline: "Hello, world!",
   bio: "I like a little bit of this I like a little bit of that. I'm going to keep typing to show off the wrapping behavior of this bio without having to think of what to put down.",
   email: "wowza@gmail.com",
   github: "hello-world",
